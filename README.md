@@ -1,1 +1,1 @@
-# YOLO-v5-NANO
+Computer Vision on local machine.
